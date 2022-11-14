@@ -8,3 +8,4 @@ parks = pd.read_csv('data/parks.csv')
 
 # Read in species
 species = pd.read_csv('data/species.csv')
+print(species)
